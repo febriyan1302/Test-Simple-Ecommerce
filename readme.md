@@ -24,6 +24,9 @@
 - Go to **Run and Debug** menu on VS Code or press ``Ctrl+Shift+D``
 - Click **Start Debugging** button or press ``F5``
 
+## Postman
+Click [Postman Online Documenter](https://documenter.getpostman.com/view/5040642/2s9YBxYbPm) **Or** you can import postman file from ``scripts`` folder
+
 ## Directory Structure
 ```shell
 .vscode/            # VS Code files
