@@ -1,0 +1,11 @@
+app:
+  name: ${APP_NAME}
+  env: development
+  rest_port: ${APP_REST_PORT}
+
+db:
+  host: ${DB_HOST}
+  port: ${DB_PORT}
+  name: ${DB_NAME}
+  user: ${DB_USER}
+  password: ${DB_PASSWORD}
